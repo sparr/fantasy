@@ -46,6 +46,7 @@ FC | Language | Price & License | Platform | Display | Chat
 [Riko4](https://github.com/incinirate/riko4) by Bryan | Lua | [Free](https://github.com/incinirate/Riko4/releases), [MIT](https://github.com/incinirate/riko4) | Windows, macOS, Linux | 280x160
 [SCRIPT-8](https://script-8.github.io/) by Gabriel Florit | JavaScript | [Free](https://script-8.github.io/), [MIT](https://github.com/script-8/script-8.github.io) | Browser | 128x128
 [SmileBASIC](http://smilebasic.com/en/) by SmileBoom | [BASIC](http://smilebasic.com/en/e-manual/) | [$9.99](http://smilebasic.com/en/buynow/) | 3DS | 320x240, 400x240
+[tako80](https://github.com/pistacchio/tako80) by pistacchio | JavaScript | [Free](https://github.com/pistacchio/tako80), [MIT](https://github.com/pistacchio/tako80/blob/master/LICENSE) | Browser | 160x144
 [TIC-80](https://tic.computer) by Vadim Grigoruk | Lua, MoonScript, JavaScript, Fennel, Wren, Squirrel | [Free, $5 (Pro)](https://tic.computer/create), [MIT](https://github.com/nesbox/TIC-80) | Windows, macOS, Linux, Android | 240x136
 [VectorBoy](https://melloland.itch.io/vectorboy) by David Jalbert | Lua | [NYOP](https://melloland.itch.io/vectorboy) | Windows | Vector
 [Voxatron](https://www.lexaloffle.com/voxatron.php) by Lexaloffle | [micro-scripting](https://www.lexaloffle.com/voxatron.php?page=resources) | [$19.99](https://www.lexaloffle.com/voxatron.php) | Windows, macOS, Linux | Voxel
@@ -59,7 +60,6 @@ FC | Language | Price & License | Platform | Display | Chat
 ---- | ---- | ---- | ---- | ---- | ----
 [4 Bits of Doom!](https://puarsliburf.itch.io/4bod-fantaly-console) by 	puarsliburf games | Binary | [Free](https://puarsliburf.itch.io/4bod-fantaly-console) | Windows | 16x16 (1bit)
 [Puarslitron](https://puarsliburf.itch.io/puarslitron-fantasy-console) by puarsliburf games | Instructions | [Free](https://puarsliburf.itch.io/puarslitron-fantasy-console) | Windows | 72x64 (1bit)
-[tako80](https://github.com/pistacchio/tako80) by pistacchio | JavaScript | [Free](https://github.com/pistacchio/tako80), [MIT](https://github.com/pistacchio/tako80/blob/master/LICENSE) | Browser | 160x144
 
 * Ordered by: alphabet.
 * Language: Mean built-in language(s) for end users, not the language in which it was created.
